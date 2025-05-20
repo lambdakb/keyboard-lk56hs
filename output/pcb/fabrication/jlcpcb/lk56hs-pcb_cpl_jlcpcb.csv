@@ -24,8 +24,8 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "D22","D","Diode_SMD_SOD-123_inSilk",185.7375,-54.6100,90.0000,bottom
 "D23","D","Diode_SMD_SOD-123_inSilk",204.7875,-54.6100,90.0000,bottom
 "D24","D","Diode_SMD_SOD-123_inSilk",223.8375,-54.6100,90.0000,bottom
-"D25","D","Diode_SMD_SOD-123_inSilk",228.6000,-57.7850,90.0000,bottom
-"D26","D","Diode_SMD_SOD-123_inSilk",266.7000,-54.6100,90.0000,bottom
+"D25","D","Diode_SMD_SOD-123_inSilk",234.9500,-58.6740,0.0000,bottom
+"D26","D","Diode_SMD_SOD-123_inSilk",258.7625,-58.6740,180.0000,bottom
 "D27","D","Diode_SMD_SOD-123_inSilk",50.0062,-73.6600,90.0000,bottom
 "D28","D","Diode_SMD_SOD-123_inSilk",76.2000,-73.6600,90.0000,bottom
 "D29","D","Diode_SMD_SOD-123_inSilk",95.2500,-73.6600,90.0000,bottom

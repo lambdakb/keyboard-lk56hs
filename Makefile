@@ -17,10 +17,10 @@ pcb:
 plate:
 	$(info + [$(NAME)] $@)
 	mkdir -p ./output/plate
-	# $(KIBOT) \
-	#     -c ./case/plate/lk56hs-plate.kibot.yaml \
-	#     -b ./case/plate/lk56hs-plate.kicad_pcb \
-	#     -d output/plate
+	$(KIBOT) \
+	    -c ./case/plate/lk56hs-plate.kibot.yaml \
+	    -b ./case/plate/lk56hs-plate.kicad_pcb \
+	    -d output/plate
 
 step:
 	$(info + [$(NAME)] $@)
@@ -28,11 +28,11 @@ step:
 	$(KIBOT) \
 	    -c libraries/kicad-lkbd/kibot/3dexport.kibot.yaml \
 	    -b ./pcb/lk56hs-pcb.kicad_pcb \
-	    -d output # 3d_step
-	# $(KIBOT) \
-	#     -c libraries/kicad-lkbd/kibot/3dexport.kibot.yaml \
-	#     -b ./case/plate/lk56hs-plate.kicad_pcb \
-	#     -d output 3d_step
+	    -d output
+	$(KIBOT) \
+	    -c libraries/kicad-lkbd/kibot/3dexport.kibot.yaml \
+	    -b ./case/plate/lk56hs-plate.kicad_pcb \
+	    -d output 3d_step
 
 clean:
 	$(info + [$(NAME)] $@)

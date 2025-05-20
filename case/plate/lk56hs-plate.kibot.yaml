@@ -1,0 +1,26 @@
+# FR4 case exports
+kibot:
+  version: 1
+
+global:
+  out_dir: output/plate
+
+import:
+  - file: libraries/kicad-lkbd/kibot/jlcpcb.kibot.yaml
+    outputs: ['jlcpcb_gbr', 'jlcpcb_drl', 'jlcpcb_drl_map', 'jlcpcb_zip']
+  - file: libraries/kicad-lkbd/kibot/pcbdraw.kibot.yaml
+  - file: libraries/kicad-lkbd/kibot/3dexport.kibot.yaml
+
+outputs:
+  - name: board_dxf
+    comment: Board Outline DXF
+    type: dxf
+    dir: dxf
+    layers:
+      - Edge.Cuts
+    run_by_default: true
+    options:
+      output: "%f.%x"
+      metric_units: true
+      exclude_edge_layer: true
+      polygon_mode: false
