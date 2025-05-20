@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="5mm"
+   height="5mm"
+   viewBox="0 0 18.518519 18.518519"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+   id="svg1"
+   sodipodi:docname="logo-lambdakb-5mm.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1" /><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="45.254834"
+   inkscape:cx="5.1817669"
+   inkscape:cy="9.3912619"
+   inkscape:window-width="2544"
+   inkscape:window-height="1356"
+   inkscape:window-x="8"
+   inkscape:window-y="276"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg1"
+   inkscape:document-units="mm" />
+    <path
+   id="rect1"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:20;fill:#000000;stroke-width:3.33396;stroke-linecap:round"
+   d="M 415.66737 -106.29641 L 415.66737 32.62475 L 554.58853 32.62475 L 554.58853 -106.29641 L 415.66737 -106.29641 z M 457.50452 -92.398552 C 463.56932 -92.398552 468.71724 -90.870911 472.95297 -87.789861 C 477.23684 -84.708812 480.67667 -79.713786 483.27586 -72.829563 L 508.83184 -5.7522927 C 510.8053 -0.55302064 513.11908 2.6728464 515.76641 3.9245223 C 518.41374 5.1761998 521.66435 5.3890052 525.51502 4.5706005 L 527.25225 4.1398817 L 531.14307 16.917872 C 530.08414 17.351145 528.54162 17.767468 526.52003 18.152599 C 524.49843 18.53773 522.31728 18.726891 519.95874 18.726891 C 514.08647 18.726891 509.03317 17.184892 504.79744 14.103843 C 500.60985 11.022792 497.26463 6.0184783 494.7617 -0.91388521 L 484.4388 -28.924963 C 483.1392 -32.535569 481.97514 -36.083178 480.96434 -39.549359 C 479.95354 -43.015541 478.99305 -46.477858 478.07852 -49.944039 C 477.21212 -46.477858 476.32261 -42.991895 475.40807 -39.477573 C 474.54167 -36.01139 473.48656 -32.487426 472.2351 -28.924963 L 456.26979 16.917872 L 439.09847 16.917872 L 469.92358 -64.387475 L 468.54528 -68.206515 C 466.71621 -73.405787 464.5114 -76.584367 461.91221 -77.739757 C 459.31302 -78.895154 455.92049 -79.004086 451.73289 -78.04126 L 450.13923 -77.739757 L 446.23405 -90.675677 C 447.29297 -91.157086 448.85914 -91.559057 450.92888 -91.896047 C 453.04675 -92.233037 455.24225 -92.398552 457.50452 -92.398552 z "
+   transform="matrix(0.133308,0,0,0.133308,-55.411786,14.170162)" />
+</svg>

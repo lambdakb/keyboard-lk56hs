@@ -26,11 +26,11 @@ step:
 	$(info + [$(NAME)] $@)
 	mkdir -p ./output/step
 	$(KIBOT) \
-	    -c libraries/kicad-lkbd/kibot/configs/3dexport.kibot.yaml \
+	    -c libraries/kicad-lkbd/kibot/3dexport.kibot.yaml \
 	    -b ./pcb/lk56hs-pcb.kicad_pcb \
 	    -d output # 3d_step
 	# $(KIBOT) \
-	#     -c libraries/kicad-lkbd/kibot/configs/3dexport.kibot.yaml \
+	#     -c libraries/kicad-lkbd/kibot/3dexport.kibot.yaml \
 	#     -b ./case/plate/lk56hs-plate.kicad_pcb \
 	#     -d output 3d_step
 
