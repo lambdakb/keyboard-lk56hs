@@ -5,6 +5,6 @@
   (lib (name "LKBD_KeySwitch")(type "KiCad")(uri "${KIPRJMOD}/libraries/kicad-lkbd/footprints/LKBD_KeySwitch.pretty")(options "")(descr ""))
   (lib (name "LKBD_Common")(type "KiCad")(uri "${KIPRJMOD}/libraries/kicad-lkbd/footprints/LKBD_Common.pretty")(options "")(descr ""))
   (lib (name "LKBD_MountingHole")(type "KiCad")(uri "${KIPRJMOD}/libraries/kicad-lkbd/footprints/LKBD_MountingHole.pretty")(options "")(descr ""))
-  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/libraries/marbastlib/footprints/marbastlib-mx.pretty")(options "")(descr ""))
   (lib (name "LKBD_Connector")(type "KiCad")(uri "${KIPRJMOD}/libraries/kicad-lkbd/footprints/LKBD_Connector.pretty")(options "")(descr ""))
+  (lib (name "LKBD_StabMX")(type "KiCad")(uri "${KIPRJMOD}/libraries/kicad-lkbd/footprints/LKBD_StabMX.pretty")(options "")(descr ""))
 )

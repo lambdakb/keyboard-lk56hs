@@ -1,8 +1,6 @@
 (fp_lib_table
   (version 7)
   (lib (name "LKBD_MountingHole")(type "KiCad")(uri "${KIPRJMOD}/libraries/kicad-lkbd/footprints/LKBD_MountingHole.pretty")(options "")(descr ""))
-  (lib (name "LKBD_StabMX")(type "KiCad")(uri "${KIPRJMOD}/libraries/kicad-lkbd/footprints/LKBD_StabMX.pretty")(options "")(descr ""))
   (lib (name "LKBD_PlateMX")(type "KiCad")(uri "${KIPRJMOD}/libraries/kicad-lkbd/footprints/LKBD_PlateMX.pretty")(options "")(descr ""))
   (lib (name "LKBD_PCBFab")(type "KiCad")(uri "${KIPRJMOD}/libraries/kicad-lkbd/footprints/LKBD_PCBFab.pretty")(options "")(descr ""))
-  (lib (name "marbastlib-xp-plate-mx")(type "KiCad")(uri "${KIPRJMOD}/libraries/marbastlib/footprints/marbastlib-xp-plate-mx.pretty")(options "")(descr ""))
 )

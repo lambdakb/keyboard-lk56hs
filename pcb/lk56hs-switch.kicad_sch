@@ -7511,7 +7511,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:STAB_MX_2u"
+		(property "Footprint" "LKBD_StabMX:Stabilizer_MX_2U"
 			(at 10.16 107.95 0)
 			(effects
 				(font
@@ -7784,7 +7784,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:STAB_MX_2.75u"
+		(property "Footprint" "LKBD_StabMX:Stabilizer_MX_2U"
 			(at 121.92 147.32 0)
 			(effects
 				(font
@@ -10327,7 +10327,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:STAB_MX_2.25u"
+		(property "Footprint" "LKBD_StabMX:Stabilizer_MX_2U"
 			(at 287.02 88.9 0)
 			(effects
 				(font
@@ -12874,7 +12874,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:STAB_MX_2u"
+		(property "Footprint" "LKBD_StabMX:Stabilizer_MX_2U"
 			(at 287.02 41.91 0)
 			(effects
 				(font
@@ -13989,7 +13989,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:STAB_MX_2.25u"
+		(property "Footprint" "LKBD_StabMX:Stabilizer_MX_2U"
 			(at 165.1 147.32 0)
 			(effects
 				(font
@@ -17300,7 +17300,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:STAB_MX_6u"
+		(property "Footprint" "LKBD_StabMX:Stabilizer_MX_6U"
 			(at 143.51 147.32 0)
 			(effects
 				(font
@@ -17901,7 +17901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:STAB_MX_2u"
+		(property "Footprint" "LKBD_StabMX:Stabilizer_MX_2U"
 			(at 287.02 107.95 0)
 			(effects
 				(font
