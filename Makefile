@@ -4,11 +4,7 @@ KIBOT	:= $(GITROOT)/libraries/kicad-lkbd/kibot/.bin/kibot
 
 default: export step
 
-test:
-	$(info + [$(NAME)] $@)
-	$(KIBOT) -c .kibot/test.kibot.yaml -b ./pcb/lk56hs-pcb.kicad_pcb
-
-export: pcb plate
+export: clean pcb plate
 
 pcb:
 	$(info + [$(NAME)] $@)
@@ -40,6 +36,6 @@ step:
 
 clean:
 	$(info + [$(NAME)] $@)
-	rm -rf output/test output/pcb output/case output/step
+	rm -rf output/pcb output/case output/step
 
-.PHONY: default test export pcb plate step clean
+.PHONY: default export pcb plate step clean
