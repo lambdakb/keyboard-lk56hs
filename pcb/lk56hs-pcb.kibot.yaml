@@ -1,0 +1,31 @@
+# PCB exports
+kibot:
+  version: 1
+
+global:
+  out_dir: output
+
+preflight:
+  erc:
+    enabled: true
+    dont_stop: true
+    dir: test
+    format: ["HTML"]
+  drc:
+    enabled: true
+    dont_stop: true
+    dir: test
+    format: ["HTML"]
+    ignore_unconnected: true
+  update_xml: false
+  check_zone_fills: true
+
+import:
+  - file: libraries/kicad-lkbd/kibot/jlcpcb.kibot.yaml
+    outputs: all
+    filters: all
+  - file: libraries/kicad-lkbd/kibot/pcbdraw.kibot.yaml
+    definitions:
+      PCBDRAW_STYLE: set-blue-hasl
+  - file: libraries/kicad-lkbd/kibot/ibom.kibot.yaml
+  - file: libraries/kicad-lkbd/kibot/schprint.kibot.yaml

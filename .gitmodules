@@ -1,0 +1,6 @@
+[submodule "libraries/kicad-lkbd"]
+	path = libraries/kicad-lkbd
+	url = https://github.com/lambdakb/kicad-lkbd.git
+[submodule "libraries/marbastlib"]
+	path = libraries/marbastlib
+	url = https://github.com/ebastler/marbastlib.git

@@ -1,0 +1,221 @@
+[
+  {
+    "css": ".keyborder[style*=\"#7c6df0\"] {\n    border-radius: 50% !important;\n    background-color: #7c6dff !important;\n}\n.keytop[style*=\"#9d89ff\"] {\n    border-radius: 50% !important;\n    background-color: #9e8aff !important;\n}\n\n.keyborder[style*=\"#e377c0\"] {\n    border-radius: 50% !important;\n    background-color: #e377cc !important;\n}\n.keytop[style*=\"#ff9ce6\"] {\n    border-radius: 50% !important;\n    background-color: #ff9cf2 !important;\n}"
+  },
+  [
+    {
+      "c": "#7c6dff",
+      "p": "R1",
+      "a": 7
+    },
+    "<i class='mss mss-Unicode-Escape-3'></i>\n\n\n\n1U",
+    {
+      "c": "#cccccc"
+    },
+    "1\n\n\n\n1U",
+    "2\n\n\n\n1U",
+    "3\n\n\n\n1U",
+    "4\n\n\n\n1U",
+    "5\n\n\n\n1U",
+    "6\n\n\n\n1U",
+    "7\n\n\n\n1U",
+    "8\n\n\n\n1U",
+    "9\n\n\n\n1U",
+    "0\n\n\n\n1U",
+    {
+      "c": "#e377cc"
+    },
+    "-\n\n\n\n1U",
+    {
+      "x": -1,
+      "p": "R4",
+      "w": 2
+    },
+    "<i class='kb kb-Unicode-BackSpace-DeleteLeft-Big'></i>\n\n\n\n2U",
+    {
+      "x": -1,
+      "p": "R1"
+    },
+    "="
+  ],
+  [
+    {
+      "c": "#cccccc",
+      "p": "R2",
+      "w": 1.5
+    },
+    "<i class='kb kb-Tab-1'></i>\n\n\n\n1.5U",
+    "Q\n\n\n\n1U",
+    "W\n\n\n\n1U",
+    "E\n\n\n\n1U",
+    "R\n\n\n\n1U",
+    "T\n\n\n\n1U",
+    "Y\n\n\n\n1U",
+    "U\n\n\n\n1U",
+    "I\n\n\n\n1U",
+    "O\n\n\n\n1U",
+    "P\n\n\n\n1U",
+    {
+      "w": 1.5
+    },
+    "<i class='kb kb-Unicode-BackSpace-DeleteLeft-Big'></i>\n\n\n\n1.50U"
+  ],
+  [
+    {
+      "p": "R3",
+      "w": 1.75
+    },
+    "<i class='kb kb-Unicode-Lock-Closed-1'></i>\n\n\n\n1.75U",
+    "A\n\n\n\n1U",
+    "S\n\n\n\n1U",
+    "D\n\n\n\n1U",
+    {
+      "n": true
+    },
+    "F\n\n\n\n1U",
+    "G\n\n\n\n1U",
+    "H\n\n\n\n1U",
+    {
+      "n": true
+    },
+    "J\n\n\n\n1U",
+    "K\n\n\n\n1U",
+    "L\n\n\n\n1U",
+    {
+      "c": "#17aaff",
+      "p": "R4"
+    },
+    ":\n\n\n\n1U",
+    {
+      "x": -1,
+      "w": 2.25
+    },
+    "<i class='kb kb-Return-2'></i>\n\n\n\n2.25U",
+    {
+      "x": -1.25,
+      "w": 1.25
+    },
+    "<i class='kb kb-Return-2'></i>\n\n\n\n1.25U"
+  ],
+  [
+    {
+      "c": "#48bf00"
+    },
+    "<i class='kb kb-Arrows-Up-Circle-Filled'></i>\n\n\n\n1U",
+    {
+      "x": -1,
+      "w": 2
+    },
+    "<i class='kb kb-Arrows-Up-Circle-Filled'></i>\n\n\n\n2U",
+    {
+      "x": -1
+    },
+    "|\n\n\n\n1U",
+    {
+      "c": "#cccccc"
+    },
+    "Z\n\n\n\n1U",
+    "X\n\n\n\n1U",
+    "C\n\n\n\n1U",
+    "V\n\n\n\n1U",
+    "B\n\n\n\n1U",
+    "N\n\n\n\n1U",
+    "M\n\n\n\n1U",
+    "<\n\n\n\n1U",
+    ">\n\n\n\n1U",
+    {
+      "c": "#b275ff"
+    },
+    "<i class='kb kb-Arrows-Up'></i>\n\n\n\n1U",
+    {
+      "x": -1,
+      "w": 2
+    },
+    "<i class='kb kb-Arrows-Up-Circle-Filled'></i>\n\n\n\n2U",
+    {
+      "x": -1
+    },
+    "<i class='kb kb-Unicode-DeleteRight-Big'></i>\n\n\n\n1U"
+  ],
+  [
+    {
+      "c": "#b56060"
+    },
+    "<i class='mss mss-Unicode-Control-4'></i>\n\n\n\n1U",
+    {
+      "x": -1,
+      "w": 1.5
+    },
+    "<i class='mss mss-Unicode-Control-4'></i>\n\n\n\n1.5U",
+    {
+      "x": -0.5
+    },
+    "<i class='kb kb-logo-linux-tux-ibm'></i>\n\n\n\n1U",
+    {
+      "x": -0.5
+    },
+    "<i class='kb kb-logo-linux-tux-ibm'></i>\n\n\n\n1U",
+    {
+      "x": -0.5
+    },
+    "<i class='mss mss-Unicode-Option-3'></i>\n\n\n\n1U",
+    {
+      "x": -0.5,
+      "w": 1.5
+    },
+    "<i class='mss mss-Unicode-Option-3'></i>\n\n\n\n1.5U",
+    {
+      "x": -1
+    },
+    "Fn\n\n\n\n1U",
+    {
+      "c": "#ffbc36",
+      "p": "SPACE",
+      "w": 2.75
+    },
+    "\n\n\n\n2.75U",
+    {
+      "x": -2.75,
+      "w": 6
+    },
+    "\n\n\n\n6U",
+    {
+      "x": -3.25,
+      "w": 2.25
+    },
+    "\n\n\n\n2.25U",
+    {
+      "c": "#72ccc7"
+    },
+    "<i class='kb kb-Hamburger-Menu'></i>\n\n\n\n1U",
+    {
+      "x": -1,
+      "p": "R2",
+      "w": 1.5
+    },
+    "<i class='mss mss-Unicode-Option-3'></i>\n\n\n\n1.5U",
+    {
+      "x": -0.5
+    },
+    "<i class='kb kb-Arrows-Left'></i>\n\n\n\n1U",
+    {
+      "x": -0.5,
+      "p": "R4"
+    },
+    "<i class='kb kb-logo-linux-tux-ibm'></i>\n\n\n\n1U",
+    {
+      "x": -0.5,
+      "p": "R2"
+    },
+    "<i class='kb kb-Arrows-Down'></i>\n\n\n\n1U",
+    {
+      "x": -0.5,
+      "w": 1.5
+    },
+    "<i class='mss mss-Unicode-Control-4'></i>\n\n\n\n1.5U",
+    {
+      "x": -1
+    },
+    "<i class='kb kb-Arrows-Right'></i>\n\n\n\n1U"
+  ]
+]
