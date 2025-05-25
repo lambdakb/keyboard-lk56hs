@@ -61,6 +61,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "D67","D","Diode_SMD_SOD-123_inSilk",235.5850,-118.7450,180.0000,bottom
 "D69","D","Diode_SMD_SOD-123_inSilk",245.1100,-118.7450,180.0000,bottom
 "D70","D","Diode_SMD_SOD-123_inSilk",261.6200,-118.7450,180.0000,bottom
+"SW1","RotaryEncoder_Switch_MP","SW_MX_EC11_HotSwap_nSilk",34.2900,-31.1150,180.0000,bottom
 "SW2","SW_Push","SW_MX_HotSwap_nSilk",53.3400,-31.1150,180.0000,bottom
 "SW3","SW_Push","SW_MX_HotSwap_nSilk",72.3900,-31.1150,180.0000,bottom
 "SW4","SW_Push","SW_MX_HotSwap_nSilk",91.4400,-31.1150,180.0000,bottom

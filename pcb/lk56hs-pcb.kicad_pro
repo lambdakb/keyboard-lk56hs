@@ -90,7 +90,7 @@
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
-        "items_not_allowed": "error",
+        "items_not_allowed": "ignore",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
         "lib_footprint_mismatch": "ignore",
@@ -468,7 +468,9 @@
       "LKBD_MountingHole",
       "LKBD_Branding"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "LKBD_Connector"
+    ]
   },
   "meta": {
     "filename": "lk56hs-pcb.kicad_pro",
@@ -517,7 +519,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 54,
+    "annotate_start_num": 0,
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {

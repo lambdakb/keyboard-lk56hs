@@ -28,7 +28,7 @@ step:
 	$(KIBOT) \
 	    -c libraries/kicad-lkbd/kibot/3dexport.kibot.yaml \
 	    -b ./pcb/lk56hs-pcb.kicad_pcb \
-	    -d output
+	    -d output 3d_step
 	$(KIBOT) \
 	    -c libraries/kicad-lkbd/kibot/3dexport.kibot.yaml \
 	    -b ./case/plate/lk56hs-plate.kicad_pcb \
@@ -36,6 +36,6 @@ step:
 
 clean:
 	$(info + [$(NAME)] $@)
-	rm -rf output/pcb output/case output/step
+	rm -rf output/pcb output/plate output/step
 
 .PHONY: default export pcb plate step clean
