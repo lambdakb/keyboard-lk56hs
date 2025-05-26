@@ -6611,7 +6611,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPosOffset" "-0.635,-3.81"
+		(property "JLCPosOffset" "0.635,3.81"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -8899,7 +8899,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPosOffset" "-0.635,-3.81"
+		(property "JLCPosOffset" "0.635,3.81"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -11751,7 +11751,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPosOffset" "-0.635,-3.81"
+		(property "JLCPosOffset" "0.635,3.81"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -12378,7 +12378,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPosOffset" "-0.635,-3.81"
+		(property "JLCPosOffset" "0.635,3.81"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -22592,7 +22592,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPosOffset" "-0.635,-3.81"
+		(property "JLCPosOffset" "0.635,3.81"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33620,7 +33620,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPosOffset" "-0.635,-3.81"
+		(property "JLCPosOffset" "0.635,3.81"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42021,7 +42021,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPosOffset" "-0.635,-3.81"
+		(property "JLCPosOffset" "0.635,3.81"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43619,7 +43619,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPosOffset" "-0.635,-3.81"
+		(property "JLCPosOffset" "0.635,3.81"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -50422,7 +50422,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPosOffset" "-0.635,-3.81"
+		(property "JLCPosOffset" "0.635,3.81"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -51393,7 +51393,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPosOffset" "-0.635,-3.81"
+		(property "JLCPosOffset" "0.635,3.81"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -52647,7 +52647,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPosOffset" "-0.635,-3.81"
+		(property "JLCPosOffset" "0.635,3.81"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -55218,7 +55218,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPosOffset" "-0.635,-3.81"
+		(property "JLCPosOffset" "0.635,3.81"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -63592,7 +63592,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPosOffset" "-0.635,-3.81"
+		(property "JLCPosOffset" "0.635,3.81"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -67134,7 +67134,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPosOffset" "-0.635,-3.81"
+		(property "JLCPosOffset" "0.635,3.81"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -68105,7 +68105,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPosOffset" "-0.635,-3.81"
+		(property "JLCPosOffset" "0.635,3.81"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
