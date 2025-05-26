@@ -38,10 +38,37 @@ The exported schematic is also available under [`output/schematics`](output/sche
 | PCB Thickness                    | 1.6 mm                 |
 | PCB Color                        | Blue                   |
 | Silkscreen                       | White                  |
-| Surface Finish  | Lead Free HASL or ENIG |
+| Surface Finish [^surface-finish] | Lead Free HASL or ENIG |
 | Copper Weight                    | 1 oz                   |
 | Via Covering                     | Tented                 |
 | Min Via Hole Size                | 0.3 mm                 |
 | Board Outline Tolerance          | ± 0.2 mm               |
 
 [^surface-finish]: The "HASL (with lead)" option is extremely discouraged due to the risk of lead poisoning. We strongly recommend paying the premium for the "Lead Free HASL" option.
+
+## Cases
+
+### FR4
+
+|          Plate (Top)          |           Plate (Bottom)            |
+| :---------------------------: | :---------------------------------: |
+| [![Plate Top]][Plate Top PNG] | [![Plate Bottom]][Plate Bottom PNG] |
+
+[Plate Top]: output/plate/img/lk56hs-plate-top.svg
+[Plate Top PNG]: output/plate/img/lk56hs-plate-top.png
+[Plate Bottom]: output/plate/img/lk56hs-plate-bottom.svg
+[Plate Bottom PNG]: output/plate/img/lk56hs-plate-bottom.png
+
+The plate has also been designed in [KiCad EDA 9.0](https://www.kicad.org/) using the [`kicad-lkbd`](https://github.com/lambdakb/kicad-lkbd) libraries.
+
+It is reversible, so you can choose to either have a wave pattern design shown or just a plain PCB plate. It can be used alongside another Keyboard PCB to create a full case by stacking:
+
+- Plate PCB (any direction)
+- Assemble Keyboard PCB
+- Reversed Unpopulated Keyboard PCB
+
+Use the same parameters present in [PCB Order](./README.md#pcb-order) to order the plate and bottom PCB, you can find the fabrication files in [`output/plate/fabrication/jlcpcb`](output/plate/fabrication/jlcpcb/).
+
+Be careful, JLCPCB may charge an extra fee for this PCB because it has "too many holes". You may want to prefer 3D printing a full case instead.
+
+If you prefer to fabricate it by any other mean (such as laser cut acrylic), you can download their board outlines as `DXF` in [`output/plate/dxf`](output/plate/dxf).
